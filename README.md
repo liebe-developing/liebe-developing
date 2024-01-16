@@ -30,7 +30,7 @@ I am a passionate Self-taught Front-end developer, enthusiastic about learning a
 </div>
 <!--tech stack icons-->
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/liebe-developing">
     <img src="https://skillicons.dev/icons?i=bootstrap,css,github,html,js,materialui,nextjs,postman,react,tailwind,ts,vscode&perline=14" />
   </a>
 </p>
@@ -44,7 +44,7 @@ I am a passionate Self-taught Front-end developer, enthusiastic about learning a
 
 <div align="center">
 
-<a href="https://github.com/0xabdulkhalid/">
+<a href="https://github.com/liebe-developing">
   <img src="https://github-readme-stats.vercel.app/api?username=liebe-developing&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=liebe-developing&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
 
