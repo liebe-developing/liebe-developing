@@ -1,20 +1,23 @@
-<p align="center"><img src="https://media3.giphy.com/media/vhVqGkxDYxAaRbOWVp/giphy.gif?cid=ecf05e478d12toykr69im665t1vq86ujxyap7qsx7dnszbdr&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="300"></p>
-
 <div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! I'm Ali Razmjooei <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! I'm Ali Razmjooei <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h2>
+<br>
+<p><img src="https://media3.giphy.com/media/vhVqGkxDYxAaRbOWVp/giphy.gif?cid=ecf05e478d12toykr69im665t1vq86ujxyap7qsx7dnszbdr&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="300"></p>
 </div>
+
 
 <!--About me-->
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-<br>
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+<div>
+<picture> <img align="right" src="https://media1.giphy.com/media/3ohjV6HSEtEZSKSjoQ/giphy.gif?cid=ecf05e47sg8n7ykta7tmhtphwokw4f9zp76dmrkssebwtoso&ep=v1_gifs_related&rid=giphy.gif&ct=g" width = 250px></picture>
+I am a passionate Self-taught Front-end developer, enthusiastic about learning anything and everything related to the web. Currently learning Web Development by Myself and working as an Intern.
 <br><br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+- :technologist: **Currently working as** `Frontend Development`.
+<br>
+- :nerd_face: Always believe `"You are what you loved"`
+<br>
+
+</div>
+<br><br><br><br><br><br><br><br><br>
 
 
 
@@ -22,7 +25,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block"> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b> + Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
@@ -31,9 +34,6 @@
     <img src="https://skillicons.dev/icons?i=bootstrap,css,github,html,js,materialui,nextjs,postman,react,tailwind,ts,vscode&perline=14" />
   </a>
 </p>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
 
 
 
@@ -55,6 +55,8 @@
 <br>
 <br>
 
+
+
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
@@ -62,6 +64,8 @@
     <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
   </ul>
 </div>
+
+
 
 <!--icons and links-->
 <div align="center">
@@ -81,3 +85,5 @@
 <i>Random dev joke for you!</i><br><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 <br>
+
+
