@@ -74,7 +74,7 @@ I am a passionate Self-taught Front-end developer, enthusiastic about learning a
 <a href="https://www.instagram.com/alirazmjue" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
 </p>
 <!--profile visit count-->
-<p> <img src="https://komarev.com/ghpvc/?username=liebe-developing&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
+<a href="https://github.com/liebe-developing"> <img src="https://komarev.com/ghpvc/?username=liebe-developing&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 </div>
 
 <!--horizontal divider(gradiant)-->
