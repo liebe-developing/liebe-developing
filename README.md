@@ -11,13 +11,13 @@
 <picture> <img align="right" src="https://media1.giphy.com/media/3ohjV6HSEtEZSKSjoQ/giphy.gif?cid=ecf05e47sg8n7ykta7tmhtphwokw4f9zp76dmrkssebwtoso&ep=v1_gifs_related&rid=giphy.gif&ct=g" width = 250px></picture>
 I am a passionate Self-taught Front-end developer, enthusiastic about learning anything and everything related to the web. Currently learning Web Development by Myself and working as an Intern.
 <br><br>
-- :technologist: **Currently working as** `Frontend Development`.
-<br>
+  
+- :technologist: **Currently working** as a `Frontend Developer`.
 - :nerd_face: Always believe `"You are what you loved"`
 <br>
 
 </div>
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
 
 
 
