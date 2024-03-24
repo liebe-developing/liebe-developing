@@ -13,7 +13,9 @@ I am a passionate Self-taught Front-end developer, enthusiastic about learning a
 <br><br>
   
 - :technologist: **Currently working** as a `Frontend Developer`.
-- :nerd_face: Always believe `"You are what you loved"`
+- :nerd_face: Always believe `"You are what you loved"`.
+- <a href="https://wa.me/+989396922723">WhatspApp</a>
+- <a href="https://t.me/alirazmjue">Telegram</a>
 <br>
 
 </div>
