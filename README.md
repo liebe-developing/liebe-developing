@@ -6,7 +6,7 @@
 
 
 <!--About me-->
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width =50px></picture> **About me**
 <div>
 <picture> <img align="right" src="https://media1.giphy.com/media/3ohjV6HSEtEZSKSjoQ/giphy.gif?cid=ecf05e47sg8n7ykta7tmhtphwokw4f9zp76dmrkssebwtoso&ep=v1_gifs_related&rid=giphy.gif&ct=g" width = 250px></picture>
 I am a passionate self-taught Front-end Developer and AI enthusiast. I'm currently learning Web Development and Machine Learning simultaneously. I'm always excited to build intelligent, user-friendly tools by combining code and data.
@@ -14,16 +14,14 @@ I am a passionate self-taught Front-end Developer and AI enthusiast. I'm current
 
 - 👨‍💻 **Currently working** as a `Frontend Developer`.
 - 🧠 **Exploring** Machine Learning, AI tools, and data-driven apps.
-- 🤖 Building a smart resume chatbot and personal assistant.
 - 📚 Love learning and growing every day.
 - 💬 "You are what you loved."
 - 📲 <a href="https://wa.me/+989396922723">WhatsApp</a> | <a href="https://t.me/alirazmjue">Telegram</a>
 </div>
 
-## 🧠 AI Projects (selected)
+<br>
 
-- 🤖 [Smart Resume Chatbot](https://github.com/liebe-developing/resume-chatbot) – ChatGPT-powered bot answering resume-based queries
-- 🌿 [Smart Irrigation System](https://github.com/liebe-developing/smart-irrigation) – IoT + Arduino + moisture sensor logic
+## 🧠 AI Projects (selected)
 - 🩺 [Diabetes Prediction ML Model](https://github.com/liebe-developing/diabetes-prediction) – ML classification on health dataset
   
 <br>
@@ -31,13 +29,17 @@ I am a passionate self-taught Front-end Developer and AI enthusiast. I'm current
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block"> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b> + Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block"> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width =50px><b> Skills</b> + Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://github.com/liebe-developing">
-      <img src="https://skillicons.dev/icons?i=python,jupyter,tensorflow,pandas,bootstrap,css,github,html,js,materialui,nextjs,postman,react,tailwind,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,bootstrap,css,github,html,js,materialui,nextjs,postman,react,tailwind,ts,vscode&perline=14" />
+    <br><br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="Jupyter" />
+    &nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
   </a>
 </p>
 
