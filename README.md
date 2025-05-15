@@ -20,10 +20,13 @@ I am a passionate self-taught Front-end Developer and AI enthusiast. I'm current
 - 📲 <a href="https://wa.me/+989396922723">WhatsApp</a> | <a href="https://t.me/alirazmjue">Telegram</a>
 </div>
 
-<br><br><br><br><br><br>
+## 🧠 AI Projects (selected)
 
-
-
+- 🤖 [Smart Resume Chatbot](https://github.com/liebe-developing/resume-chatbot) – ChatGPT-powered bot answering resume-based queries
+- 🌿 [Smart Irrigation System](https://github.com/liebe-developing/smart-irrigation) – IoT + Arduino + moisture sensor logic
+- 🩺 [Diabetes Prediction ML Model](https://github.com/liebe-developing/diabetes-prediction) – ML classification on health dataset
+  
+<br>
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -37,12 +40,6 @@ I am a passionate self-taught Front-end Developer and AI enthusiast. I'm current
       <img src="https://skillicons.dev/icons?i=python,jupyter,tensorflow,pandas,bootstrap,css,github,html,js,materialui,nextjs,postman,react,tailwind,ts,vscode&perline=14" />
   </a>
 </p>
-
-## 🧠 AI Projects (selected)
-
-- 🤖 [Smart Resume Chatbot](https://github.com/liebe-developing/resume-chatbot) – ChatGPT-powered bot answering resume-based queries
-- 🌿 [Smart Irrigation System](https://github.com/liebe-developing/smart-irrigation) – IoT + Arduino + moisture sensor logic
-- 🩺 [Diabetes Prediction ML Model](https://github.com/liebe-developing/diabetes-prediction) – ML classification on health dataset
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
