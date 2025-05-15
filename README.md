@@ -9,16 +9,17 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 <div>
 <picture> <img align="right" src="https://media1.giphy.com/media/3ohjV6HSEtEZSKSjoQ/giphy.gif?cid=ecf05e47sg8n7ykta7tmhtphwokw4f9zp76dmrkssebwtoso&ep=v1_gifs_related&rid=giphy.gif&ct=g" width = 250px></picture>
-I am a passionate Self-taught Front-end developer, enthusiastic about learning anything and everything related to the web. Currently learning Web Development by Myself and working as an Intern.
+I am a passionate self-taught Front-end Developer and AI enthusiast. I'm currently learning Web Development and Machine Learning simultaneously. I'm always excited to build intelligent, user-friendly tools by combining code and data.
 <br><br>
-  
-- :technologist: **Currently working** as a `Frontend Developer`.
-- :nerd_face: Always believe `"You are what you loved"`.
-- <a href="https://wa.me/+989396922723">WhatspApp</a>
-- <a href="https://t.me/alirazmjue">Telegram</a>
-<br>
 
+- 👨‍💻 **Currently working** as a `Frontend Developer`.
+- 🧠 **Exploring** Machine Learning, AI tools, and data-driven apps.
+- 🤖 Building a smart resume chatbot and personal assistant.
+- 📚 Love learning and growing every day.
+- 💬 "You are what you loved."
+- 📲 <a href="https://wa.me/+989396922723">WhatsApp</a> | <a href="https://t.me/alirazmjue">Telegram</a>
 </div>
+
 <br><br><br><br><br><br>
 
 
@@ -33,13 +34,15 @@ I am a passionate Self-taught Front-end developer, enthusiastic about learning a
 <!--tech stack icons-->
 <p align="center">
   <a href="https://github.com/liebe-developing">
-    <img src="https://skillicons.dev/icons?i=bootstrap,css,github,html,js,materialui,nextjs,postman,react,tailwind,ts,vscode&perline=14" />
+      <img src="https://skillicons.dev/icons?i=python,jupyter,tensorflow,pandas,bootstrap,css,github,html,js,materialui,nextjs,postman,react,tailwind,ts,vscode&perline=14" />
   </a>
 </p>
 
+## 🧠 AI Projects (selected)
 
-
-
+- 🤖 [Smart Resume Chatbot](https://github.com/liebe-developing/resume-chatbot) – ChatGPT-powered bot answering resume-based queries
+- 🌿 [Smart Irrigation System](https://github.com/liebe-developing/smart-irrigation) – IoT + Arduino + moisture sensor logic
+- 🩺 [Diabetes Prediction ML Model](https://github.com/liebe-developing/diabetes-prediction) – ML classification on health dataset
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
