@@ -29,22 +29,19 @@ I am a passionate self-taught Front-end Developer and AI enthusiast. I'm current
 <!--h1 without bottom border-->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50px"><b> Skills</b> + Technologies That I Know 👨🏻‍💻</h2>
 
-<!-- Skill section grouped by category -->
 <p>
   <!-- Core & Frontend Stack -->
   <img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind&perline=9" />
-  <!-- AI / Data Science Tools -->
   <img src="https://skillicons.dev/icons?i=python&perline=9" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="Jupyter" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="40" alt="Scikit-learn" />
+  <img src="https://github.com/devicons/devicon/tree/v2.16.0/icons/scikit-learn/scikit-learn-original.svg" height="40" alt="Scikit-learn" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
 </p>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
-
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <div align="center">
 
 <a href="https://github.com/liebe-developing">
