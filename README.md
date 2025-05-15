@@ -35,7 +35,7 @@ I am a passionate self-taught Front-end Developer and AI enthusiast. I'm current
 <!--tech stack icons-->
 <p align="center">
   <a href="https://github.com/liebe-developing">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,bootstrap,css,github,html,js,materialui,nextjs,postman,react,tailwind,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,python&perline=10" />
     <br><br>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="Jupyter" />
     &nbsp;&nbsp;
