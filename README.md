@@ -29,27 +29,37 @@ I am a passionate self-taught Front-end Developer and AI enthusiast. I'm current
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul>
-    <summary><h2 style="display: inline-block"> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width =50px><b> Skills</b> + Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block"> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50px"><b> Skills</b> + Technologies That I Know 👨🏻‍💻</h2></summary>
   </ul>
 </div>
-<!--tech stack icons-->
-<p>
-  <a href="https://github.com/liebe-developing">
-    <!-- Frontend & core skills -->
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,python&perline=10" />
-    <br><br>
 
-    <!-- AI/Data tools -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="Jupyter" />
-    &nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
-    &nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
-    &nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="40" alt="scikit-learn" />
-  </a>
+<!-- Skill section grouped by category -->
+<p align="center">
+
+  <!-- Core & Frontend Stack -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,materialui&perline=9" />
+
+  <br><br>
+
+  <!-- AI / Data Science Tools -->
+  <img src="https://skillicons.dev/icons?i=python&perline=9" />
+  <br><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="Jupyter" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="40" alt="Scikit-learn" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
+
+  <br><br>
+
+  <!-- Tools & Platforms -->
+  <img src="https://skillicons.dev/icons?i=vscode,postman,git,github&perline=9" />
+
 </p>
-
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
